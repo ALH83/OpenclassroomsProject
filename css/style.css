@@ -18,6 +18,11 @@ body {
     justify-content: center;
 }
 
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
 .main-container {
     width: 100%;
     max-width: 1440px;
@@ -37,7 +42,7 @@ a {
 
 .card {
     background-color: white;
-    border-radius: 20px;
+    border-radius:20px;
     padding: 5px;
     filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 }
@@ -56,6 +61,30 @@ a {
 
 .neutral-star {
     color: var(--main-bg-color)
+}
+
+/****** Header ***********/
+.logo {
+    padding: 30px 0 30px 0;
+}
+
+.logo img {
+    width : 61.09px;
+}
+
+.menu {
+    list-style-type: none;
+    display: flex;
+}
+
+.menu a {
+    margin-left: 50px;          /* marge de gauche entre chaque lien */
+    padding-top: 10px;          /* espacement entre le lien et la bordure du hover */
+}
+
+.menu a:hover {
+    border-top: 2px solid #0065FC;
+    color: #0065FC;
 }
 
 /****** Hebergements And Populaires ***********/
