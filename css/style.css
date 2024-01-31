@@ -35,9 +35,20 @@ a {
     text-decoration: none;
 }
 
+.h1-title{
+    margin: 0 0 10px 0;
+    font-size: 22px;
+}
+
 .section-title {
     margin: 0;
     font-size: 22px;
+}
+
+.h3-title{
+    margin: 0 0 10px 0;
+    font-size: 16px;
+    font-weight: 400;
 }
 
 .card {
@@ -64,6 +75,7 @@ a {
 }
 
 /****** Header ***********/
+/****** Header : logo ***********/
 .logo {
     padding: 30px 0 30px 0;
 }
@@ -72,6 +84,7 @@ a {
     width : 61.09px;
 }
 
+/****** Header : menu navigation ***********/
 .menu {
     list-style-type: none;
     display: flex;
@@ -85,6 +98,48 @@ a {
 .menu a:hover {
     border-top: 2px solid #0065FC;
     color: #0065FC;
+}
+
+/****** Formulaire de recherche **********/
+
+.formulaire-de-recherche {
+    margin: auto;
+}
+
+.localisation {
+    border-radius: 15px;
+
+}
+.epingle-de-recherche {
+    margin: 0;
+    padding : 15px;
+    background-color: #F2F2F2;
+    border-radius: 15px 0 0 15px;
+}
+
+.zone-de-recherche {
+    border: 1px solid #F2F2F2;
+    padding: 15px;
+}
+
+input::placeholder {
+    text-align: center;
+    color: #000000;
+    font-weight: 700;
+  }
+  
+input:focus::placeholder {
+    color: transparent;
+  }
+
+.boutton-de-recherche {
+    padding: 15px 16px 15px 16px;
+    border: 1px solid #0065FC;
+    border-radius: 0 15px 15px 0;
+    background-color: #0065FC;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
 }
 
 /****** Hebergements And Populaires ***********/
