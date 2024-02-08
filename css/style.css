@@ -439,5 +439,52 @@ footer section {
 
 /* Small devices (phones, less than 768px) */
 @media (max-width: 767.98px) {
-    /* ... */
+
+    .main-container{
+        padding: 0 20px;
+    }
+
+    header {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .logo {
+        display:flex;
+        justify-content: center;
+    }
+
+    nav{
+        display: flex;
+    }
+
+    nav li{
+        flex: 1;
+    }
+
+    .menu {
+        flex: 1;
+        margin: 0;
+        padding-left: 0;
+        justify-content: space-around;
+
+    }
+
+    .menu a {
+        margin-left: inherit;
+        padding-bottom: 15px;
+    }
+
+    .menu li:hover {
+        border-width: 100%;
+        border-bottom: 2px solid #0065FC;
+        color: #0065FC;
+    }
+
+    .menu a:hover {
+        border: inherit
+        ;
+    }
+
+
 }
