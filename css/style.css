@@ -466,24 +466,17 @@ footer section {
         flex: 1;
         margin: 0;
         padding-left: 0;
-        justify-content: space-around;
 
-    }
-
-    .menu a {
-        margin-left: inherit;
-        padding-bottom: 15px;
     }
 
     .menu li:hover {
-        border-width: 100%;
+        padding-bottom: 15px;
         border-bottom: 2px solid #0065FC;
         color: #0065FC;
     }
 
     .menu a:hover {
-        border: inherit
-        ;
+        border-top: inherit;
     }
 
 
