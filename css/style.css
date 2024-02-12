@@ -258,7 +258,7 @@ input:focus::placeholder {
     padding-left: 10px;
     display: flex;
     flex-direction: column;
-    box-sizing: content-box;
+    justify-content: center;
 }
 
 .hebergements-cards .card-title {
@@ -290,7 +290,7 @@ input:focus::placeholder {
 
 .populaires-cards .card {
     display: flex;
-    margin-bottom: 33px;
+    margin-bottom: 30px;
     box-shadow: 0px 3px 15px 0px #0000001A;
 }
 
@@ -501,7 +501,7 @@ footer li{
     }
 
     .section-recherche {
-        margin: 0 20px 0 20px;
+        margin: 30px 20px 30px 20px;
     }
 
     span.rechercher {
@@ -524,7 +524,7 @@ footer li{
     }
 
     .filtres .filtre-rubrique {
-        margin: 0 0 20px 0;
+        margin: 10px 0 10px 0;
         width: 35%;
     }
 
@@ -536,6 +536,10 @@ footer li{
 
     .filtre-rubrique h3 {
         font-size: 14px;
+    }
+
+    .section-title {
+        margin-bottom: 5px;
     }
 
     .hebergements {
@@ -554,6 +558,10 @@ footer li{
         padding: 30px 20px 30px 20px;
     }
 
+    .populaires {
+        margin-top: inherit;
+    }
+
     .populaires-cards {
         display: flex;
         flex-direction: column;
@@ -562,6 +570,11 @@ footer li{
 
     .populaires a {
         width: 100%;
+        margin: 8px 0 8px 0;
+    }
+
+    .populaires-cards .card {
+        margin-bottom: 0;
     }
 
     .hebergements-and-populaires .hebergements {
@@ -573,12 +586,24 @@ footer li{
         flex-direction: column;
     }
 
+    .hebergements article {
+        margin-bottom: 0px;
+    }
     .hebergements-cards a {
         width: 100%;
+        margin: 8px 0 8px 0;
+    }
+
+    .hebergements .h2-title {
+        margin: 10px 0 20px 0;
+    }
+
+    .activite-title {
+        margin: 0 0 30px 0;
     }
 
     .activites {
-        margin: inherit;
+        margin: 0 0 30px 0;
     }
     .activite-cards {
         flex-direction: column;
@@ -594,12 +619,30 @@ footer li{
         padding-left: 19px;
     }
 
+    .activite-cards .card-title{
+        margin-top: 20px;
+    }
+
+    .h3-title{
+        margin: 0;
+    }
+
     .activite-cards a {
         width: 100%;
-        margin-bottom: 15px;
+        margin: 8px 0 8px 0;
     }
 
     footer {
         flex-direction: column;
     }
+
+    footer section {
+        margin: 30px 0 0 30px;
+        width: auto;
+    }
+
+    .menu-footer {
+        margin: 0 0 16px 0;
+    }
+    
 }
