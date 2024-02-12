@@ -207,8 +207,12 @@ input:focus::placeholder {
     align-items: center;
 }
 
-.informations-nombre-de-logements img{
-    padding-right: 10px;
+.informations-nombre-de-logements i {
+    border: 1px solid #d9d9d9;
+    border-radius:100%;
+    padding: 10px 9px;
+    margin-right: 10px;
+
 }
 
 /****** Hebergements And Populaires ***********/
@@ -505,7 +509,7 @@ footer li{
     }
 
     span.rechercher {
-        display: none;
+        display:none;
     }
 
     .boutton-de-recherche {
