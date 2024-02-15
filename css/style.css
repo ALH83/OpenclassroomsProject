@@ -102,7 +102,7 @@ p {
 }
 
 .menu li {
-    padding: 10px 0px 0 50px;          /* espacement entre le lien et la bordure du hover */
+    padding: 10px 0px 0 50px;
 }
 
 .menu a:hover {
@@ -164,7 +164,7 @@ input:focus::placeholder {
 }
 
 .boutton-de-recherche i {           
-    display: none;              /****** On cache l'icone de la version mobile **********/
+    display: none;              /******On cache l'icone de la version mobile**********/
 }
 
 /****** Filtres de recherche ***********/
@@ -199,7 +199,7 @@ p.h2-title {
 
 
 .filtres-element i {
-    padding-right: 10px;
+    padding-right: 8px;
 }
 
 .filtres-element:hover {
@@ -554,7 +554,7 @@ footer li{
 
     .filtres .filtres-element {
         margin: 10px 0 10px 0;
-        width: 35%;
+        width: 34%;
     }
 
     .filtres-element h3 {
@@ -565,7 +565,7 @@ footer li{
         margin-bottom: 5px;
     }
 
-    /****** Hebergements And Populaires ***********/
+    /****** Hebergements And Populaires***********/
     .hebergements {
         order: 1;
     }
@@ -582,7 +582,7 @@ footer li{
         padding: 30px 20px 30px 20px;
     }
 
-     /******Populaires ***********/
+     /******Populaires***********/
 
     .populaires {
         margin-top: inherit;
