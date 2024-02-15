@@ -125,7 +125,7 @@ p {
 }
 
 .epingle-de-recherche {
-    padding : 17px 19px 16px 19px;
+    padding : 16px 15px 15px 19px;
     background-color: #F2F2F2;
     border-radius: 15px 0 0 15px;
 }
@@ -154,7 +154,7 @@ input:focus::placeholder {
 
 .boutton-de-recherche {
     width: 132px;
-    padding: 15px 16px 15px 16px;
+    padding: 14px 16px 14px 16px;
     border: 0px;
     border-radius: 0 15px 15px 0;
     background-color: #0065FC;
@@ -400,6 +400,11 @@ footer li{
 /* Medium devices (tablets, less/equal than 1024px) */
 /****************************************************/
 @media (max-width: 1024px) {
+
+    .main-container{
+        padding: 0 20px;
+    }
+
     .filtres {
         display: block;
     }
@@ -517,9 +522,14 @@ footer li{
         margin: 30px 20px 30px 20px;
     }
 
+    .zone-de-recherche {
+        width: 172px;
+        padding-left: 12px;
+        }
+
     .boutton-de-recherche {
         width: 49px;
-        padding: 25px 0px 23px 0px;
+        padding: 24px 0px 23px 0px;
         border: 0px;
         border-radius: 15px;
         background-color:#0065FC;
@@ -662,4 +672,5 @@ footer li{
     .menu-footer {
         margin: 0 0 16px 0;
     }
+
 }
