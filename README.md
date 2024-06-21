@@ -1,6 +1,6 @@
 ### Bienvenue! 👋
 
-Premier projet qui constituait à réaliser l'ensemble de la page d'accueil du site Booki en HTML / CSS à partir de la maquette Figma que vous pouvez retrouver ci-dessous : <a href='https://www.figma.com/file/yA7MRETzb30A4r6NUJKFjl/Maquettes-Booki-(desktop%2C-mobile%2C-tablette)?type=design&node-id=3%3A0&t=OXWj7ieXDza8HSvD-1' target="_blank">Lien vers la maquette Figma</a>
+Premier projet qui constituait à réaliser l'ensemble de la page d'accueil du site Booki en HTML / CSS à partir de la maquette Figma que vous pouvez retrouver ci-dessous : <a href='https://www.figma.com/design/gtGKzsR8Cs451txBDFn9dc/Maquettes-Booki-(desktop%2C-mobile%2C-tablette)?node-id=3-0&t=TD8WijU8RymyGnnU-1' target="_blank">Lien vers la maquette Figma</a>
 
 <a href="https://aurelienlehyaric.github.io/Booki/" target="_blank">
   <img src="https://aurelienlehyaric/img/booki.jpg" alt="Capture de Booki" />
