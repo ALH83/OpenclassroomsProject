@@ -20,7 +20,7 @@ Premier projet qui constituait à réaliser l'ensemble de la page d'accueil du s
 ![RESPONSIVE](https://img.shields.io/badge/RESPONSIVE-18A303?&style=for-the-badge&logo=RESPONSIVE&logoColor=white&color=18A303)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-#### Envie de tester le projet de votre côté ? Voici les instructions :<br>
+#### Instructions pour tester le projet :<br>
 - Dépôt à cloner :<br>
 **`https://github.com/AurelienLeHyaric/Booki.git`**
 - Vous pouvez accéder à la home page **INDEX.HTML** avec **LIVE-SERVER** sur **VS-CODE**.<br>
@@ -59,7 +59,7 @@ This is my first project, which involved creating the entire homepage of the Boo
 ![RESPONSIVE](https://img.shields.io/badge/RESPONSIVE-18A303?&style=for-the-badge&logo=RESPONSIVE&logoColor=white&color=18A303)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-#### Want to test the project yourself? Here are the instructions:
+#### Here are the instructions to test the project:
 - Clone the repository:
 **`https://github.com/AurelienLeHyaric/Booki.git`**
 - You can access the homepage **INDEX.HTML** with **LIVE-SERVER** on **VS-CODE**.
