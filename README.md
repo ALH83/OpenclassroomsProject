@@ -1,4 +1,4 @@
-### Bonjour à tous ! 👋
+### Bienvenue! 👋
 
 Premier projet qui constituait à réaliser l'ensemble de la page d'accueil du site Booki en HTML / CSS à partir de la maquette Figma que vous pouvez retrouver ci-dessous : <a href='https://www.figma.com/file/yA7MRETzb30A4r6NUJKFjl/Maquettes-Booki-(desktop%2C-mobile%2C-tablette)?type=design&node-id=3%3A0&t=OXWj7ieXDza8HSvD-1' target="_blank">Lien vers la maquette Figma</a>
 
@@ -36,7 +36,7 @@ Premier projet qui constituait à réaliser l'ensemble de la page d'accueil du s
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Hello everyone! 👋
+### Welcome ! 👋
 
 This is my first project, which involved creating the entire homepage of the Booki website in HTML / CSS based on the Figma mockup you can find below:
 [Figma Mockup Link](https://www.figma.com/file/yA7MRETzb30A4r6NUJKFjl/Maquettes-Booki-(desktop%2C-mobile%2C-tablette)?type=design&node-id=3%3A0&t=OXWj7ieXDza8HSvD-1)
