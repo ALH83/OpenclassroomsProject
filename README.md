@@ -1,6 +1,6 @@
 ### Bienvenue! 👋
 
-Premier projet qui constituait à réaliser l'ensemble de la page d'accueil du site Booki en HTML / CSS à partir de la maquette Figma que vous pouvez retrouver ci-dessous : <a href='https://www.figma.com/design/gtGKzsR8Cs451txBDFn9dc/Maquettes-Booki-(desktop%2C-mobile%2C-tablette)?node-id=3-0&t=TD8WijU8RymyGnnU-1' target="_blank">Lien vers la maquette Figma</a>
+Premier projet qui consistait à réaliser l'ensemble de la page d'accueil du site Booki en HTML / CSS à partir de la maquette Figma que vous pouvez retrouver ci-dessous : <a href='https://www.figma.com/design/gtGKzsR8Cs451txBDFn9dc/Maquettes-Booki-(desktop%2C-mobile%2C-tablette)?node-id=3-0&t=TD8WijU8RymyGnnU-1' target="_blank">Lien vers la maquette Figma</a>
 
 <a href="https://aurelienlehyaric.github.io/Booki/" target="_blank">
   <img src="https://aurelienlehyaric/img/booki.jpg" alt="Capture de Booki" />
@@ -21,9 +21,13 @@ Premier projet qui constituait à réaliser l'ensemble de la page d'accueil du s
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 #### Instructions pour tester le projet :<br>
-- Dépôt à cloner :<br>
+Vous tester le projet depuis le lien direct : 
+https://aurelienlehyaric.github.io/Booki/
+
+Vous pouvez également le tester en clonat le dépôt : :<br>
 **`https://github.com/AurelienLeHyaric/Booki.git`**
-- Vous pouvez accéder à la home page **INDEX.HTML** avec **LIVE-SERVER** sur **VS-CODE**.<br>
+Et accéder à la home page **INDEX.HTML** avec **LIVE-SERVER** sur **VS-CODE**.<br>
+
 
 
 #### Découvrez mon portfolio :
@@ -59,10 +63,13 @@ This is my first project, which involved creating the entire homepage of the Boo
 ![RESPONSIVE](https://img.shields.io/badge/RESPONSIVE-18A303?&style=for-the-badge&logo=RESPONSIVE&logoColor=white&color=18A303)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-#### Here are the instructions to test the project:
-- Clone the repository:
-**`https://github.com/AurelienLeHyaric/Booki.git`**
-- You can access the homepage **INDEX.HTML** with **LIVE-SERVER** on **VS-CODE**.
+#### Here are the instructions to test the project:<br>
+You can test the project directly via the link:
+https://aurelienlehyaric.github.io/Booki/
+
+You can also test it by cloning the repository :<br>
+https://github.com/AurelienLeHyaric/Booki.git
+And access the home page INDEX.HTML with LIVE-SERVER on VS-CODE.<br>
 
 #### Check out my portfolio:
 [![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.aurelienlehyaric.com)
