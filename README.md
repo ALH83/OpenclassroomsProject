@@ -21,7 +21,7 @@ Premier projet qui consistait à réaliser l'ensemble de la page d'accueil du si
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 #### Instructions pour tester le projet :<br>
-Vous tester le projet depuis le lien direct : 
+Vous pouvez tester le projet depuis le lien direct : 
 https://aurelienlehyaric.github.io/Booki/
 
 Vous pouvez également le tester en clonat le dépôt : :<br>
