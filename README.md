@@ -1,4 +1,5 @@
 ### Bienvenue! 👋
+(English version below)
 
 Premier projet qui consistait à réaliser l'ensemble de la page d'accueil du site Booki en HTML / CSS à partir de la maquette Figma que vous pouvez retrouver ci-dessous : <a href='https://www.figma.com/design/gtGKzsR8Cs451txBDFn9dc/Maquettes-Booki-(desktop%2C-mobile%2C-tablette)?node-id=3-0&t=TD8WijU8RymyGnnU-1' target="_blank">Lien vers la maquette Figma</a>
 
